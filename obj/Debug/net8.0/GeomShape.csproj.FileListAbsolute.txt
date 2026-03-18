@@ -1,0 +1,12 @@
+C:\GeomShape\bin\Debug\net8.0\GeomShape.deps.json
+C:\GeomShape\bin\Debug\net8.0\GeomShape.dll
+C:\GeomShape\bin\Debug\net8.0\GeomShape.pdb
+C:\GeomShape\obj\Debug\net8.0\GeomShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeomShape\obj\Debug\net8.0\GeomShape.AssemblyInfoInputs.cache
+C:\GeomShape\obj\Debug\net8.0\GeomShape.AssemblyInfo.cs
+C:\GeomShape\obj\Debug\net8.0\GeomShape.csproj.CoreCompileInputs.cache
+C:\GeomShape\obj\Debug\net8.0\GeomShape.sourcelink.json
+C:\GeomShape\obj\Debug\net8.0\GeomShape.dll
+C:\GeomShape\obj\Debug\net8.0\refint\GeomShape.dll
+C:\GeomShape\obj\Debug\net8.0\GeomShape.pdb
+C:\GeomShape\obj\Debug\net8.0\ref\GeomShape.dll
