@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnKz8yJBVPQ=",
+  "dgSpecHash": "cymAXmEi1eM=",
   "success": true,
-  "projectFilePath": "C:\\RectangleTest\\RectangleTest.csproj",
+  "projectFilePath": "C:\\GeomShape\\RectangleTest\\RectangleTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maibenben\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Maibenben\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

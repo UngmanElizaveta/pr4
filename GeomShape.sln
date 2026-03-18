@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36203.30 d17.14
+VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomShape", "GeomShape.csproj", "{5B9B9F5C-533F-4F8E-868A-AC07CE198659}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTest", "..\RectangleTest\RectangleTest.csproj", "{1FD907B3-224A-45D9-A800-99B730A4B773}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTest", "RectangleTest\RectangleTest.csproj", "{F963B119-F332-C21D-A7CC-58D2585397C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5B9B9F5C-533F-4F8E-868A-AC07CE198659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B9B9F5C-533F-4F8E-868A-AC07CE198659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B9B9F5C-533F-4F8E-868A-AC07CE198659}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1FD907B3-224A-45D9-A800-99B730A4B773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FD907B3-224A-45D9-A800-99B730A4B773}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FD907B3-224A-45D9-A800-99B730A4B773}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FD907B3-224A-45D9-A800-99B730A4B773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F963B119-F332-C21D-A7CC-58D2585397C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F963B119-F332-C21D-A7CC-58D2585397C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F963B119-F332-C21D-A7CC-58D2585397C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F963B119-F332-C21D-A7CC-58D2585397C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GeomShape\GeomShape.csproj" />
+    <ProjectReference Include="..\GeomShape.csproj" />
   </ItemGroup>
 
   <ItemGroup>
