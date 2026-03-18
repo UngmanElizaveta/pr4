@@ -3,7 +3,10 @@
   "WorkspaceRootPath": "C:\\GeomShape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FD907B3-224A-45D9-A800-99B730A4B773}|..\\RectangleTest\\RectangleTest.csproj|c:\\rectangletest\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FD907B3-224A-45D9-A800-99B730A4B773}|..\\RectangleTest\\RectangleTest.csproj|c:\\rectangletest\\rectangletest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD907B3-224A-45D9-A800-99B730A4B773}|..\\RectangleTest\\RectangleTest.csproj|c:\\rectangletest\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B9B9F5C-533F-4F8E-868A-AC07CE198659}|GeomShape.csproj|c:\\geomshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,20 +36,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriangleTest.cs",
+              "DocumentMoniker": "C:\\RectangleTest\\TriangleTest.cs",
+              "RelativeDocumentMoniker": "..\\RectangleTest\\TriangleTest.cs",
+              "ToolTip": "C:\\RectangleTest\\TriangleTest.cs",
+              "RelativeToolTip": "..\\RectangleTest\\TriangleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:18:40.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RectangleTest.cs",
-              "DocumentMoniker": "C:\\RectangleTest\\RectangleTest.cs",
-              "RelativeDocumentMoniker": "..\\RectangleTest\\RectangleTest.cs",
-              "ToolTip": "C:\\RectangleTest\\RectangleTest.cs",
-              "RelativeToolTip": "..\\RectangleTest\\RectangleTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Title": "RectangleTest1.cs",
+              "DocumentMoniker": "C:\\RectangleTest\\RectangleTest1.cs",
+              "RelativeDocumentMoniker": "..\\RectangleTest\\RectangleTest1.cs",
+              "ToolTip": "C:\\RectangleTest\\RectangleTest1.cs",
+              "RelativeToolTip": "..\\RectangleTest\\RectangleTest1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T05:12:39.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\GeomShape\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
@@ -54,12 +70,11 @@
               "RelativeToolTip": "Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:10:27.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T05:10:27.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\GeomShape\\Triangle.cs",
               "RelativeDocumentMoniker": "Triangle.cs",
@@ -67,12 +82,11 @@
               "RelativeToolTip": "Triangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:09:51.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T05:09:51.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\GeomShape\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
@@ -80,8 +94,7 @@
               "RelativeToolTip": "Shape.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:06:06.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T05:06:06.28Z"
             }
           ]
         }

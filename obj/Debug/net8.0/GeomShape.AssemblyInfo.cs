@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeomShape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79a4655dc7b4550cfac7be9f45f461797677a2d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeomShape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeomShape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
